@@ -222,4 +222,4 @@ Power Search is offered as a full free version with all features and updates inc
 Unlock the power of efficient file searching today! Download Power Search now and take control of your file management.
 
 ---
-**Last updated:** 2026-10-14 23:49:44 UTC
+**Last updated:** 2026-10-15 04:19:02 UTC
